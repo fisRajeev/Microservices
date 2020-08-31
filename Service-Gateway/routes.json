@@ -1,0 +1,21 @@
+﻿{
+  "routes": [
+    {
+      "endpoint": "/book",
+      "destination": {
+        "path": "http://localhost:57106/book",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/subscription",
+      "destination": {
+        "path": "http://localhost:30329/subscription",
+        "requiresAuthentication": "false"
+      }
+    }
+  ],
+  "authenticationService": {
+    "path": "http://localhost:5000"
+  }
+}

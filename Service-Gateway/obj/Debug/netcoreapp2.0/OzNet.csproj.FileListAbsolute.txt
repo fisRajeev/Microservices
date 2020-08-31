@@ -1,0 +1,10 @@
+C:\OzNet-master\OzNet-master\OzNet\bin\Debug\netcoreapp2.0\OzNet.deps.json
+C:\OzNet-master\OzNet-master\OzNet\bin\Debug\netcoreapp2.0\OzNet.runtimeconfig.json
+C:\OzNet-master\OzNet-master\OzNet\bin\Debug\netcoreapp2.0\OzNet.runtimeconfig.dev.json
+C:\OzNet-master\OzNet-master\OzNet\bin\Debug\netcoreapp2.0\OzNet.dll
+C:\OzNet-master\OzNet-master\OzNet\bin\Debug\netcoreapp2.0\OzNet.pdb
+C:\OzNet-master\OzNet-master\OzNet\obj\Debug\netcoreapp2.0\OzNet.csproj.CoreCompileInputs.cache
+C:\OzNet-master\OzNet-master\OzNet\obj\Debug\netcoreapp2.0\OzNet.AssemblyInfoInputs.cache
+C:\OzNet-master\OzNet-master\OzNet\obj\Debug\netcoreapp2.0\OzNet.AssemblyInfo.cs
+C:\OzNet-master\OzNet-master\OzNet\obj\Debug\netcoreapp2.0\OzNet.dll
+C:\OzNet-master\OzNet-master\OzNet\obj\Debug\netcoreapp2.0\OzNet.pdb
